@@ -1,0 +1,3 @@
+Adding some features to already existing repo, by forking it in another profile. 
+And this feature can be added to repo by pull request acceptence from owner of the repo
+once pull request is accepted then remotely the feature can be seen.
